@@ -12,7 +12,7 @@ export class NzDemoButtonBasicComponent {
     var domain = 'mg.company-tree.com';
     var to = 'galangerison@gmail.com';
     var subject = 'Test Email';
-    var template = 'test2';
+    var template = 'welcome_email';
     var data = {
       from: 'Ison <galangerison@serverless-secure.com>',
       to: to,
